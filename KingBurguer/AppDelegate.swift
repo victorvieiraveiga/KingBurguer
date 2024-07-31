@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  KingBurguer
 //
-//  Created by Tiago Aguiar on 17/11/22.
+//  Created by Victor Vieira Veiga on 03/05/24.
 //
 
 import UIKit
