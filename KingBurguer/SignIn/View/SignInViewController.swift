@@ -225,6 +225,9 @@ extension SignInViewController: SignInViewModelDelegate {
             alert.addAction(UIAlertAction(title: "Ok", style: .default))
             
             self.present(alert, animated: true)
+            DispatchQueue.main.async {
+                self.send.startLoading(false)
+            }
         }
     }
 }

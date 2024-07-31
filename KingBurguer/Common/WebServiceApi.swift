@@ -9,7 +9,7 @@ import Foundation
 
 class WebServiceApi {
     
-    static let apiKey = "333a55aa-4843-4ce2-b1d2-533ca0a75d14"
+    static let apiKey = "98a491ef-432b-4f7d-85ff-a8bbef04c0df"
     static let baseURL = "https://hades.tiagoaguiar.co/kingburguer"
     
     static let shared = WebServiceApi()
